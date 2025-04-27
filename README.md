@@ -7,11 +7,17 @@ Hi, there! I'm Alex Kuleshov
   <img height="300" width="600" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true"  />
 </div>
 
+### 💻 My Projects
+
 <p align="center">
 <a href="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=whaleOpop&repo=AneCodeHiH&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=paintwork-labor-materials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=site-policiessite-policies
+&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
 </p>
 
 <picture>
