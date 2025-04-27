@@ -31,12 +31,9 @@ Hi, there! I'm Alex Kuleshov, frontend dev.
 
 ## 📞 Contact with me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
+<h3 align="center"><em>I'll pray for god to take shit like this all the time</em></h3>
 <div align="center">
   <img src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/flames.gif?raw=true"  />
 </div>
