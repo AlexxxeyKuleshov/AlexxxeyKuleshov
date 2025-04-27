@@ -1,7 +1,5 @@
 <div align="center">
-   <img src="welcome-header.gif" alt="welcome to my github profile">
-   <br>
-   <br>
+  <img height="300" width="600" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true"  />
 </div>
 
-Hello, I'm Alexey Kuleshov, beta-test readme
+<h1 align="left">👋 Hi, there! I'm Alex Kuleshov</h1>
