@@ -7,4 +7,8 @@ Hi, there! I'm Alex Kuleshov
   <img height="300" width="600" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true"  />
 </div>
 
-![Snake animation](https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake.svg">
+</picture>
