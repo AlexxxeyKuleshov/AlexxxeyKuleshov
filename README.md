@@ -18,11 +18,11 @@ Hi, there! I'm Alexey Kuleshov, frontend dev.
 ## 💻 My Projects
 
 <div align="center">
-  <a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=paintwork-abor-materials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" width="45%" />
-  </a>
   <a href="https://github.com/stocktaking-inc/site-policies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=sitepolicies&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=site-policies&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" width="45%" />
+  </a>
+  <a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=paintwork-labor-materials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" width="45%" />
   </a>
 </div>
 
