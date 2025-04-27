@@ -1,4 +1,4 @@
-<h1 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi, there! I'm Alex Kuleshov 
+<h1 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi, there! I'm Alex Kuleshov 
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
 <div align="center">
