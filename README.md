@@ -15,17 +15,17 @@ Hi, there! I'm Alexey Kuleshov, frontend dev.
 
 ---
 
-## 💻 My Projects
+#### 💻 My Projects
 
-<div align="center">
-  <a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials" style="display: inline-block; width: 40%;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=paintwork-labor-materials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span style="display: inline-block; width: 2%;"></span>
-  <a href="https://github.com/stocktaking-inc/site-policies" style="display: inline-block; width: 40%;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=site-policies&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</div>
+<p align="center">
+<a href="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=AlexxxeyKuleshov&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=AlexxxeyKuleshov&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
 
 ---
 
