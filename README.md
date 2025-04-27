@@ -33,7 +33,7 @@ Hi, there! I'm Alexey Kuleshov, frontend dev.
 
 ---
 
-<h3 align="center"><em>I'll pray for god to take shit like this all the time</em></h3>
+<h3 align="center" style="text-shadow: 0 0 8px red;"><em>I'll pray for god to take shit like this all the time</em></h3>
 <div align="center">
   <img src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/flames.gif?raw=true"  />
 </div>
