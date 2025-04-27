@@ -6,3 +6,5 @@ Hi, there! I'm Alex Kuleshov
 <div align="center">
   <img height="300" width="600" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true"  />
 </div>
+
+![Snake animation](https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/output/github-contribution-grid-snake.svg)
