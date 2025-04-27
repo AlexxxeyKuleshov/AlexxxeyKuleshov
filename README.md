@@ -23,7 +23,7 @@ Hi, there! I'm Alexey Kuleshov, frontend dev.
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/whaleOpop/AneCodeHiH/tree/frontend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=whaleOpop&repo=AneCodeHiH/tree/frontend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=whaleOpop&repo=AneCodeHiH&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
