@@ -9,12 +9,9 @@ Hi, there! I'm Alex Kuleshov
 
 <p align="center">
 <a href="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=AlexxxeyKuleshov&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=whaleOpop&repo=AneCodeHiH&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
 </p>
 
 <picture>
