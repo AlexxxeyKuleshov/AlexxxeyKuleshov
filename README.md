@@ -36,3 +36,7 @@ Hi, there! I'm Alex Kuleshov, frontend dev.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexxxeyKuleshov/AlexxxeyKuleshov/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/flames.gif?raw=true"  />
+</div>
