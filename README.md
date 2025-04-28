@@ -36,8 +36,8 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <br>Vue.js
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" />
-      <br>Vite
+      <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite.js" />
+      <br>Vite.js
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ---
 
-#### 💻 My Projects
+## 💻 My Stars Projects
 
 <p align="center">
 <a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials">
@@ -119,9 +119,38 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ## 📱 Contact with me
 
+**My business hours for contacting me:**  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+🕙 **Su – Th:** 10:00 AM – 10:00 PM  
+🕛 **Fr – Sa:** 12:00 AM – 6:00 PM
+
+<br/>
+
+<p align="left">
+  <a href="https://your-website-link.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:al2ex2ey8@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/krxwrt" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://x.com/krxwrt?s=21" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/@alex_js" target="_blank">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-## My stats 
+## 📊 My stats 
+
+<p align="center">
+  <img width="30%" algin="center" src="https://github-readme-stats.vercel.app/api?username=AlexxxeyKuleshov&show_icons=true&rank_icon=github&border_radius=10&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <img width='30%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxxeyKuleshov&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</p>
 
 ---
 
