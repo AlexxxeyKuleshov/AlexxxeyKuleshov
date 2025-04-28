@@ -36,8 +36,12 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <br>Vue.js
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite.js" />
-      <br>Vite.js
+      <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="36" height="36" alt="Astro" />
+      <br>Astro
     </td>
   </tr>
   <tr>
