@@ -49,7 +49,6 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="36" height="36" alt="Astro" />
       <br>Astro
     </td>
-    <tr>
     <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
       <br>Next.js
