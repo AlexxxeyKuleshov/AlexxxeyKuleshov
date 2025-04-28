@@ -9,6 +9,7 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ## 🔥 My Tech Stack
 
+> 🛠 General
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -27,6 +28,11 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
       <br>TypeScript
     </td>
+</table>
+
+> ⚛️ Frontend Frameworks 
+
+<table width='100%'>
     <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
       <br>React
@@ -49,6 +55,11 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
       <br>Next.js
     </td>
+</table>
+
+> ⚙️ Backend & System Programming
+
+<table width='100%'>
     <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
       <br>Node.js
@@ -65,6 +76,11 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
       <br>C#
     </td>
+</table>
+
+> 🐍 Scripting & Automation
+
+<table width='100%'>
     <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
       <br>Python
