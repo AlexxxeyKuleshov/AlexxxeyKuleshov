@@ -1,10 +1,35 @@
+<style>
+@media (max-width: 768px) {
+  .stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .stats-container img {
+    width: 90% !important;
+  }
+  .stars-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .stars-container a {
+    width: 90% !important;
+  }
+  table {
+    width: 100% !important;
+  }
+}
+</style>
+
 <h1 align="left"> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-Hi there! I'm Alexey Kuleshov, frontend dev.
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  Hi there! I'm Alexey Kuleshov, frontend dev.
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+</h1>
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true"  />
+  <img height="300" width="100%" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true" />
 </div>
 
 ## 🔥 My Tech Stack
@@ -105,21 +130,23 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ## 💻 My Stars Projects
 
-<p align="center">
-<a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=paintwork-labor-materials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/stocktaking-inc/site-policies">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=site-policies&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+<div class="stars-container">
+  <a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=paintwork-labor-materials&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/stocktaking-inc/site-policies">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=site-policies&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</div>
 
 ---
 
 ## 📱 Contact with me
 
-**My business hours for contacting me:**  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+**My business hours for contacting me:**  
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
 🕙 **Su – Th:** 10:00 AM – 10:00 PM  
 🕛 **Fr – Sa:** 12:00 AM – 6:00 PM
 
@@ -147,14 +174,20 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ## 📊 My stats 
 
-<p align="center">
-  <img width="30%" algin="center" src="https://github-readme-stats.vercel.app/api?username=AlexxxeyKuleshov&show_icons=true&rank_icon=github&border_radius=10&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  <img width='30%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxxeyKuleshov&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</p>
+<div class="stats-container">
+  <a href="https://github.com/AlexxxeyKuleshov">
+    <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexxxeyKuleshov&show_icons=true&rank_icon=github&border_radius=10&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/AlexxxeyKuleshov">
+    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxxeyKuleshov&layout=compact&card_width=445&border_radius=10&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</div>
 
 ---
 
 <h3 align="center" style="text-shadow: 0 0 8px red;"><em>I'll pray for god to take shit like this all the time</em></h3>
+
 <div align="center">
-  <img src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/flames.gif?raw=true"  />
+  <img src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/flames.gif?raw=true" />
 </div>
