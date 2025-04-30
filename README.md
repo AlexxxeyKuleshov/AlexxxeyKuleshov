@@ -101,6 +101,12 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
       <br>VS Code
     </td>
     <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
       <br>GitHub
     </td>
