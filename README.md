@@ -1,36 +1,35 @@
 <h1 align="left"> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-Hi there! I'm Alexey Kuleshov, frontend dev.
+
+Hi there! I'm Alexey Kuleshov(she/they), vibe dev.
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
-<div align="center">
-  <img height="300" width="600" src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/welcome-header.gif?raw=true"  />
-</div>
+<h2> FORTNITE BALLS I AM GAY I LOVE BOYS I KIDNAP AUTISTIC KIDS LITTLE MOSEY IS WATCHNG T-REX I'M EDP</h2>
 
-## 🔥 My Tech Stack
+## 🔥 My AI Stack for my AI code
 
 > 🛠 General
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" />
-      <br>HTML
+      <img src="https://seekflag.com/wp-content/uploads/2021/12/Palestine-01-1.svg" width="36" height="36" alt="FREE PALASTELINE" />
+      <br>FREE PALASTELINE
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" />
-      <br>CSS
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" width="36" height="36" alt="GROK" />
+      <br>GORK
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://cs13.pikabu.ru/post_img/2023/04/24/9/1682349680177691808.jpg" width="36" height="36" alt="GIGACHAT" />
+      <br>GIGACHAT
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-      <br>TypeScript
+      <img src="https://sun9-73.userapi.com/impg/J3WRTKQzZMkwnY2C541N4XtDp3e4g3dhyKjOGA/leP_mqDKN1w.jpg?size=1080x1080&quality=95&sign=363ea872624b350fa305465d99a59e09&type=album" width="36" height="36" alt="MOISHA" />
+      <br>MOISHA
     </td>
 </table>
 
-> ⚛️ Frontend Frameworks 
+> ⚛️ Frontend Frameworks for my AI code
 
 <table width='100%'>
     <td align="center" width="110" height="90">
@@ -55,36 +54,24 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
     </td>
 </table>
 
-> ⚙️ Backend & System Programming
+> ⚙️ Backend & System Programming for my AI code
 
 <table width='100%'>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
-      <br>C#
+    <td align="center" width="512" height="90">
+      <img src="https://play-lh.googleusercontent.com/asu4A288X1gkq44pFHdxn6KRuAgB16m_E_V5WmV3qZ-vBl6wUtRLX2wDK5dq4qEzv7hO" width="512" height="128" alt=":(" />
+      <br>:(
     </td>
 </table>
 
-> 🐍 Scripting & Automation
+> 🐍 Scripting & Automation for my AI code
 
 <table width='100%'>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+    <td align="center" width="512" height="512">
+      <img src="https://diveinintl.com/lander/surachipm.com/?_=%2FuE8Wt-k8NAIAAAAM%2Fkanyewest-kanye-west.gif%23avVel1cMipmhS6kQFFAEGo0V28eOKzE%3D" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" />
+    <td align="center" width="512" height="512">
+      <img src="https://diveinintl.com/lander/surachipm.com/?_=%2FuE8Wt-k8NAIAAAAM%2Fkanyewest-kanye-west.gif%23avVel1cMipmhS6kQFFAEGo0V28eOKzE%3D" alt="Arduino" />
       <br>Arduino
     </td>
   </tr>
@@ -92,42 +79,42 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ---
 
-## 🛠 Tools & Software i use
+## 🛠 Tools & Software i use for my AI code
 
 <table width='100%'>
   <tr>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />
-      <br>VS Code
+    <td align="center" width="256" height="256">
+      <img src="https://preview.redd.it/worst-ye-pic-v0-ue354vb3hdqc1.jpeg?width=640&crop=smart&auto=webp&s=63f17736553ef2bd2cc794818df367559e8a1d0c" alt="@GROK iS THIS TRUE?" />
+      <br>@GROK iS THIS TRUE?
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="256" height="256">
       <a href="#oberlevd-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+        <img src="https://preview.redd.it/worst-ye-pic-v0-ue354vb3hdqc1.jpeg?width=640&crop=smart&auto=webp&s=63f17736553ef2bd2cc794818df367559e8a1d0c" alt="@GROK iS THIS TRUE?" />
       </a>
-      <br>Git
+      <br>@GROK iS THIS TRUE?
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
-      <br>GitHub
+    <td align="center" width="256" height="256">
+      <img src="https://preview.redd.it/worst-ye-pic-v0-ue354vb3hdqc1.jpeg?width=640&crop=smart&auto=webp&s=63f17736553ef2bd2cc794818df367559e8a1d0c" alt="@GROK iS THIS TRUE?" />
+      <br>@GROK iS THIS TRUE?
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
-      <br>Figma
+    <td align="center" width="256" height="256">
+      <img src="https://preview.redd.it/worst-ye-pic-v0-ue354vb3hdqc1.jpeg?width=640&crop=smart&auto=webp&s=63f17736553ef2bd2cc794818df367559e8a1d0c" alt="@GROK iS THIS TRUE?" />
+      <br>@GROK iS THIS TRUE?
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" />
-      <br>Photoshop
+    <td align="center" width="256" height="256">
+      <img src="https://preview.redd.it/worst-ye-pic-v0-ue354vb3hdqc1.jpeg?width=640&crop=smart&auto=webp&s=63f17736553ef2bd2cc794818df367559e8a1d0c" alt="@GROK iS THIS TRUE?" />
+      <br>@GROK iS THIS TRUE?
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" />
-      <br>Blender
+    <td align="center" width="256" height="256">
+      <img src="https://preview.redd.it/worst-ye-pic-v0-ue354vb3hdqc1.jpeg?width=640&crop=smart&auto=webp&s=63f17736553ef2bd2cc794818df367559e8a1d0c" alt="@GROK iS THIS TRUE?" />
+      <br>@GROK iS THIS TRUE?
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 My Stars Projects
+## 💻 My Stars Projects(don't look at them they are full AI)
 
 <p align="center">
 <a href="https://github.com/AlexxxeyKuleshov/paintwork-labor-materials">
@@ -143,10 +130,15 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ## 📱 Contact with me
 
-**My business hours for contacting me:**  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-🕙 **Su – Th:** 10:00 AM – 10:00 PM  
-🕛 **Fr – Sa:** 12:00 AM – 6:00 PM
-
+**My business hours for contacting me:**  <img align="right" src="https://diveinintl.com/lander/surachipm.com/?_=%2FuE8Wt-k8NAIAAAAM%2Fkanyewest-kanye-west.gif%23avVel1cMipmhS6kQFFAEGo0V28eOKzE%3D" alt="Penguin" width="15%" /><br>
+🕙 **Su – Th:** 10:00 AM – 11:00 AM  
+🕛 **Fr – Sa:** 12:00 AM – 1:00 PM
+</br>
+Spicy chats with me </3
+</br>
+I'm getting freaky ;)
+</br>
+I love when boys dominate me :D
 <br/>
 
 <p align="left">
@@ -179,7 +171,7 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ---
 
-<h3 align="center" style="text-shadow: 0 0 8px red;"><em>I'll pray for god to take shit like this all the time</em></h3>
+<h3 align="center" style="text-shadow: 0 0 8px red;"><em>I AM THE VIBE CODING</em></h3>
 <div align="center">
   <img src="https://github.com/AlexxxeyKuleshov/AlexxxeyKuleshov/blob/main/images/flames.gif?raw=true"  />
 </div>
