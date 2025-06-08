@@ -127,20 +127,6 @@ Hi there! I'm Alexey Kuleshov, frontend dev.
 
 ---
 
-## 💻 My Stars Projects
-
-<p align="center">
-<a href="https://github.com/AlexxxeyKuleshov/error-pages">
-<img width='46%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AlexxxeyKuleshov&repo=error-pages&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/stocktaking-inc/site-policies">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=stocktaking-inc&repo=site-policies&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
----
-
 ## 📱 Contact with me
 
 **My business hours for contacting me:**  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
